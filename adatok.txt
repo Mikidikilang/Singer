@@ -1,0 +1,21 @@
+20
+Kovács János,Pop,Budapest;2025-05-10,Debrecen;2025-06-15
+Nagy Anna,Rock,Pécs;2025-04-25
+Szabó István,Jazz,Miskolc;2025-06-05,Eger;2025-07-15,Sopron;2025-08-20
+Kiss Gábor,Metal,Szeged;2025-09-01,Veszprém;2025-10-10,Zalaegerszeg;2025-11-15,Szekszárd;2025-12-20
+Tóth Erzsébet,Opera,		
+Horváth László,Blues,Győr;2025-03-15
+Fekete Katalin,Folk,Szolnok;2025-07-01,Kaposvár;2025-08-05
+Balogh Zoltán,Electronic,Nyíregyháza;2025-10-20
+Varga Mária,Classical,Szombathely;2026-01-05,Tatabánya;2026-02-10
+Simon Péter,Reggae,Salgótarján;2025-11-25
+Oláh Erika,Soul,Kecskemét;2025-04-10,Békéscsaba;2025-05-15,Hódmezővásárhely;2025-06-20
+Rácz Tamás,Punk,Szentendre;2025-08-10
+Bíró Eszter,World,Pápa;2026-03-01,Esztergom;2026-04-05
+Lakatos József,Country,Jászberény;2025-12-01
+Gál Olga,Indie,Mosonmagyaróvár;2026-05-10,Ózd;2026-06-15,Kazincbarcika;2026-07-20
+Szalai Bence,Hip-Hop,Ajka;2025-09-15
+Farkas Emese,Techno,Komárom;2026-02-25
+Németh András,Gospel,Kiskunfélegyháza;2026-04-10,Orosháza;2026-05-15
+Takács Zsuzsanna,Musical,Dunaújváros;2025-10-01
+Papp Krisztián,Samba,Sárvár;2026-06-01,Kőszeg;2026-07-05,Körmend;2026-08-10
